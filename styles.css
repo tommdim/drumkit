@@ -11,6 +11,10 @@ h1 {
 
 }
 
+h1:hover{
+color:#000
+}
+
 footer {
   color: #DBEDF3;
   font-family: sans-serif;
